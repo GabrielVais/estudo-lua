@@ -18,7 +18,7 @@ print(x + y)
 
 endereco = "Av Maracana, 255"
 
-telefone = "(14)3732-9384"
+telefone = "(14)3732-5555"
 
 print("Meu telefone eh",telefone)
 print("Meu endereco eh", endereco)
@@ -45,5 +45,15 @@ function soma(a, b)
 
 end
 
-
 print(soma(20, 2))
+
+-- atribuindo funcao a uma variavel
+
+s = soma
+
+print(s(1, 2))
+
+-- thread: Corrotinas
+
+
+-- userdata: Tipos customizados definidos por usuário
