@@ -56,4 +56,4 @@ print(s(1, 2))
 -- thread: Corrotinas
 
 
--- userdata: Tipos customizados definidos por usuário
+-- userdata: Tipos customizados definidos por usuário em c
