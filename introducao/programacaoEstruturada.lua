@@ -29,7 +29,6 @@ function calculaDelta(a, b, c)
 
 print(calculaDelta(1, -5, 6))
 
-
 -- estrutura de if else ---------------//
 function compararValores(a, b)
 	
@@ -96,8 +95,6 @@ for i = 2, #tabela do
 end
 
 print(maior)
-
-
 -- pegando um elemento de uma tabela em lua
 
 -- tabela concatenado com posicao [] ex tabela[1]

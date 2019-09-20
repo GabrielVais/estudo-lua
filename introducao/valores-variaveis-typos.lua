@@ -55,5 +55,12 @@ print(s(1, 2))
 
 -- thread: Corrotinas
 
-
 -- userdata: Tipos customizados definidos por usuário em c
+
+-- em lua por padrao as variaveis sao globais
+
+-- nome = "james" = variavel global
+
+-- colocando um local antes da variavel torna a variavel local
+
+-- local nome = "james" = variavel local
